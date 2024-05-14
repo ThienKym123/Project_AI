@@ -1,5 +1,5 @@
 
-This is the AI Project about Sentiment Analysis with 50k Review IMDb dataset.
+This is an AI Project about Sentiment Analysis with 50k Review IMDb dataset.
 FFNN is used to build the model to predict positive or negative opinion in English.
 
 How to run the code:
